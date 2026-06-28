@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>AI Engineer (SDE-1) @ Wednesday Solutions</b> · Pune, India<br/>
-  Backend systems &amp; AI/LLM orchestration · Building production-grade, cost-optimized AI.
+  Backend systems &amp; AI/LLM orchestration · Building production-grade, cost-optimized AI.<br/>
+  🌐 <a href="https://arjunvavulliapthy.vercel.app/">arjunvavulliapthy.vercel.app</a>
 </p>
 
 ---
@@ -49,12 +50,13 @@ I build the backend of intelligence — event-driven AI pipelines, multi-agent s
 ### 🎓 Background
 **BCA in Data Analytics** — St. Joseph's University, Bangalore (2025) · GPA 7.8/10
 **Certifications:** 100X Engineer · Advanced Learning Algorithms · SQL for Data Science
-**Beyond code:** University handball &amp; basketball player · musician · automation advocate
+**Beyond code:** University handball &amp; basketball player · musician · automation advocates
 
 ---
 
 ### 📫 Reach me
-[![Email](https://img.shields.io/badge/Email-arjun.v@wednesday.is-c14438?style=flat&logo=gmail&logoColor=white)](mailto:arjun.v@wednesday.is)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arjunvavulliapthy.vercel.app-d4a574?style=flat&logo=vercel&logoColor=white)](https://arjunvavulliapthy.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-arjunvavullipathy@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:arjunvavullipathy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Arj0010-181717?style=flat&logo=github&logoColor=white)](https://github.com/Arj0010)
 
 <!---

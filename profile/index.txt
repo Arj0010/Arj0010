@@ -192,6 +192,8 @@ LEGEND:  [dir]  TITLE  ·  status  ·  where  ·  complexity
                 actual project work lives in the individual repos above.
                 Contains: ESSENTIALS/, docs/ (deep dives), BLOG/, knowledge-base.json.
 [profile/]      Capability + project knowledge base distilled from MYSITE + all repos.
+                Incl. 04-LEARNING-ROADMAP.md + 05-CAREER-EVALUATION.md — lane to own:
+                Production Agent Engineering (ship reliable agents + prove it).
 [Arj0010]       GitHub profile README repo (not a project).
 [clone-repos.sh] Helper script to clone all repos.
 

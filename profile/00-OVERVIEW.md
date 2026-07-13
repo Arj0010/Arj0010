@@ -32,3 +32,7 @@ AI Engineer focused on the backend of intelligence: event-driven pipelines, mult
 - **Primary:** AI/Backend Engineer — LLM orchestration, multi-agent systems, cost-conscious production AI
 - **Strong secondary:** Full-stack product engineer (Next.js + Supabase/Postgres), ML/data-science practitioner
 - **Differentiator:** Treats cost, reliability, and fallback design as first-class architecture concerns — not afterthoughts.
+
+## Career Direction (see `04` & `05`)
+- **Lane to own:** **Production Agent Engineering** — ship agentic systems that work in production, and prove it. Reliability + evaluation are the moat; matches the portfolio 1:1.
+- **Docs:** [`04-LEARNING-ROADMAP.md`](04-LEARNING-ROADMAP.md) — phased plan to top 1%. [`05-CAREER-EVALUATION.md`](05-CAREER-EVALUATION.md) — standing, lane rationale, and why it's future-proof.

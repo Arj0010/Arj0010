@@ -33,7 +33,7 @@ I build the backend of intelligence — event-driven AI pipelines, multi-agent s
 | **GetGist** | In-LMS AI study companion (Chrome MV3) with exam-integrity guardrails | MV3 · React · Supabase Edge · GPT-4o-mini |
 | **LAIPath** | Adaptive learning system that rewrites your path based on real progress | React · Express · OpenAI · Supabase |
 
-➡️ **Full project index &amp; detailed profile:** see the [`profile/`](./profile) folder.
+➡️ **Full project index &amp; detailed profile:** see the [`profile/`](https://github.com/Arj0010/MYSITE/tree/main/profile) folder in the portfolio repo.
 
 ---
 
